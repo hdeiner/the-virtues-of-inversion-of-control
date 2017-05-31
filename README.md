@@ -1,5 +1,9 @@
 The Virtues of Inversion of Control 
 =====================================
+
+### Status
+[![Build Status](https://travis-ci.org/hdeiner/the-virtues-of-inversion-of-control.svg?branch=master)](https://travis-ci.org/hdeiner/the-virtues-of-inversion-of-control)
+
 Guide to this code
 ------------------
 This example will implement some classes that compute a value from an argument, as this is the simplest thing that we can implement to demonstrate the concepts we want to talk about. 
